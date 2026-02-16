@@ -1,0 +1,7 @@
+{
+    "versionCode": 31,
+    "versionName": "3.2.0",
+    "apkUrl": "https://ultimatemarketing.infinityfree.me/updateMe.apk",
+    "changelog": "Nouveautés majeures :\n\n✨ Mode API amélioré\n• Sélection de SIM par batch pour téléphones dual SIM\n• Toggle mode SMS/API masqué si l'API n'est pas activée\n• Support complet du mode API avec Sender ID personnalisé\n\n📊 Historique des échecs\n• Nouvelle section dédiée aux messages en échec\n• Pagination pour une meilleure navigation\n• Réessai automatique avec paramètres d'origine (message, délai, mode)\n• Sélection multiple pour réessayer plusieurs échecs\n• Option pour créer un batch depuis les échecs\n\n🎨 Améliorations de l'interface\n• Boutons de réorganisation des batches côte à côte et plus grands\n• Affichage amélioré des échecs avec lignes plus hautes\n• Noms de batches simplifiés (Batch 1 au lieu de Batch 1 (5 nums))\n• Bouton 'Vider l'historique' pour supprimer tous les historiques\n\n📱 Nom de l'application\n• Nouveau nom : UltimateMarketingSMS\n\n📖 Guide d'aide amélioré\n• Sommaire avec navigation rapide\n• Bouton retour en haut (sticky)\n• Section complète sur le mode API\n• Exemples pratiques avec SIM SFR\n\n🔧 Corrections\n• Distinction entre absence de connexion et version à jour\n• Validation CSV améliorée\n• Export de l'extracteur sans commentaires\n• Gestion des échecs optimisée",
+    "forceUpdate": false
+}
